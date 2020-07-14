@@ -1,0 +1,6 @@
+D:\Chaithra\H-DA\Study materials\SEM2\System Driven Hardware Design\Submission2\Project_SDHD\Project_SDHD\01_SDHD.cydsn\01_SDHD.cyprj|825105f1-8e60-4d88-a37d-58815bfeca9f
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|aa7fe257-8829-489a-87bd-74671b3c256f
+C:\Users\user\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|8b576ba2-0bfe-4b6e-9440-3da7c0eb4963
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|cdbb9d5d-26e2-449f-b86c-13aad6100bc7
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|a549986c-fc97-4333-9e4b-96ff1a81f09d
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|fe2d489d-fc95-4823-b1fa-e6a305475534
